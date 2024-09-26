@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24aade06b5cf843498719a2f8c32b65b, type: 3}
+  m_Name: GameSoundsSO
+  m_EditorClassIdentifier: 
+  popupAppear: {fileID: 8300000, guid: 8b0b74e3c6ca0bc4ba98cde9b76dab7e, type: 3}
+  purchaseItem: {fileID: 8300000, guid: 7dc0b244b779c0c4bbf8511f715010f9, type: 3}
+  cantAfford: {fileID: 0}
+  offerExpire: {fileID: 0}
+  completeJob: {fileID: 8300000, guid: 09db62852e0fc4d4cb92bf13c50f83ae, type: 3}
+  codingKeystroke: {fileID: 8300000, guid: 11688f24b2ca9954bbf84eb6719cc565, type: 3}
+  boxArrived: {fileID: 8300000, guid: f81cd02376f316c4a8c0ca6e3d6798bf, type: 3}
+  openBox: {fileID: 8300000, guid: 8fc5858ebe34bcc4dbbdc8a729340016, type: 3}

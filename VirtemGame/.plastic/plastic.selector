@@ -1,0 +1,4 @@
+repository "VirtemGame@Claudio_Bustamante@cloud"
+  path "/"
+    br "/main"
+    co "/main"
