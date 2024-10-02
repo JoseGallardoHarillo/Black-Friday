@@ -6,5 +6,5 @@ Consult the project documentation "Virtem Game GDD.pdf" for more information.
 - **Unity version:** 2022.3.14f1
 
 ## Contact
-- For any questions or support, feel free to reach out.
+- For any questions or support, feel free to reach out: josegallardoharillo@gmail.com
 
